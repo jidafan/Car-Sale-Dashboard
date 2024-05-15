@@ -4,7 +4,7 @@
 * [Introduction](#introduction)
 * [Data Review](#data-review)
 * [Data Cleaning](#data-cleaning)
-* [EDA](#eda)
+* [Dashboard](#dashboard)
 * [Conclusion](#conclusion)
 
 ### Introduction
