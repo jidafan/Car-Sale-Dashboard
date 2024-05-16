@@ -5,7 +5,6 @@
 * [Data Review](#data-review)
 * [Data Cleaning](#data-cleaning)
 * [Dashboard](#dashboard)
-* [Conclusion](#conclusion)
 
 ### Introduction
 
