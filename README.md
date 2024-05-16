@@ -1,4 +1,4 @@
-# Car Sales Dashboard
+# Car Supply Chain Sales Dashboard
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -26,4 +26,9 @@ First, we removed unnecessary columns that we did not need to visualize or analy
 
 Secondly, we fixed the data types of certain variables, as they were categorized under the wrong values.
 
-#### 
+### Dashboard
+
+The dashboard contains three different views that a user can interact with. Firstly, the orders view where users can look at the details of orders and see a general overview of the orders. Secondly, the sales view, where a user can see the sales trends for the quarters or the month. Lastly, a customer overview, where a user can see the relation of customers to sales.
+
+The dashboard can be viewed [here]()
+
