@@ -13,4 +13,4 @@ There is a lot of information that needs to be stored after a company makes a sa
 
 ### Data Review
 
-The information in the datasets contains information on 1000 car sales from a fictitious company. The data was sourced from [Kaggle](https://www.kaggle.com/datasets/prashantk93/supply-chain-management-for-car/data) and downloaded using the Kaggle API. The code for downloading the data can be accessed [here]()
+The information in the datasets contains information on 1000 car sales from a fictitious company. The data was sourced from [Kaggle](https://www.kaggle.com/datasets/prashantk93/supply-chain-management-for-car/data) and downloaded using the Kaggle API. The code for downloading the data can be accessed [here](https://github.com/jidafan/Car-Sale-Dashboard/blob/main/Download.ipynb)
