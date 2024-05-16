@@ -16,4 +16,14 @@ The information in the datasets contains information on 1000 car sales from a fi
 
 ### Data Cleaning
 
+Before we begin analyzing the data and creating a dashboard we must clean and prepare the data. To do so, we load the data into powerBI and use the power PowerQuery Editor to clean the data.
 
+#### Removed Unnecessary Columns
+
+First, we removed unnecessary columns that we did not need to visualize or analyze
+
+#### Fixed data types
+
+Secondly, we fixed the data types of certain variables, as they were categorized under the wrong values.
+
+#### 
